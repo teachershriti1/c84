@@ -209,7 +209,7 @@ const styles = StyleSheet.create({
     resizeMode: "contain"
   },
   inputFont: {
-    height: RFValue(40),
+  
     borderColor: "white",
     borderWidth: RFValue(1),
     borderRadius: RFValue(10),
